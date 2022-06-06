@@ -1,0 +1,8 @@
+{
+"fact": "Cats have about 130,000 hairs per square inch (20,155 hairs per square centimeter).", 
+"length": 83
+}
+{
+"fact": "When a cat drinks, its tongue - which has tiny barbs on it - scoops the liquid up backwards.", 
+"length": 92
+}
