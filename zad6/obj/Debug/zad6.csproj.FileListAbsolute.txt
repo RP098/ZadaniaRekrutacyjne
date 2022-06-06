@@ -1,0 +1,6 @@
+B:\IISTOPNIA\KPMGAkademy\Zad5_6\zad6\bin\Debug\zad6.dll
+B:\IISTOPNIA\KPMGAkademy\Zad5_6\zad6\bin\Debug\zad6.pdb
+B:\IISTOPNIA\KPMGAkademy\Zad5_6\zad6\obj\Debug\zad6.csproj.AssemblyReference.cache
+B:\IISTOPNIA\KPMGAkademy\Zad5_6\zad6\obj\Debug\zad6.csproj.CoreCompileInputs.cache
+B:\IISTOPNIA\KPMGAkademy\Zad5_6\zad6\obj\Debug\zad6.dll
+B:\IISTOPNIA\KPMGAkademy\Zad5_6\zad6\obj\Debug\zad6.pdb
